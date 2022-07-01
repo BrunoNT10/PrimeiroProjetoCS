@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\etefmc_2022\Linguagem de Programacao\2tri\PrimeiroProjeto\AprendendoPOO\obj\Debug\net6.0\AprendendoPOO.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\etefmc_2022\Linguagem de Programacao\2tri\PrimeiroProjeto\AprendendoPOO\obj\Debug\net6.0\AprendendoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\etefmc_2022\Linguagem de Programacao\2tri\PrimeiroProjeto\AprendendoPOO\obj\Debug\net6.0\AprendendoPOO.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\etefmc_2022\Linguagem de Programacao\2tri\PrimeiroProjeto\AprendendoPOO\obj\Debug\net6.0\AprendendoPOO.AssemblyInfo.cs
+C:\Users\user\Desktop\etefmc_2022\Linguagem de Programacao\2tri\PrimeiroProjeto\AprendendoPOO\obj\Debug\net6.0\AprendendoPOO.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\etefmc_2022\Linguagem de Programacao\2tri\PrimeiroProjeto\AprendendoPOO\bin\Debug\net6.0\AprendendoPOO.exe
+C:\Users\user\Desktop\etefmc_2022\Linguagem de Programacao\2tri\PrimeiroProjeto\AprendendoPOO\bin\Debug\net6.0\AprendendoPOO.deps.json
+C:\Users\user\Desktop\etefmc_2022\Linguagem de Programacao\2tri\PrimeiroProjeto\AprendendoPOO\bin\Debug\net6.0\AprendendoPOO.runtimeconfig.json
+C:\Users\user\Desktop\etefmc_2022\Linguagem de Programacao\2tri\PrimeiroProjeto\AprendendoPOO\bin\Debug\net6.0\AprendendoPOO.dll
+C:\Users\user\Desktop\etefmc_2022\Linguagem de Programacao\2tri\PrimeiroProjeto\AprendendoPOO\bin\Debug\net6.0\AprendendoPOO.pdb
+C:\Users\user\Desktop\etefmc_2022\Linguagem de Programacao\2tri\PrimeiroProjeto\AprendendoPOO\obj\Debug\net6.0\AprendendoPOO.dll
+C:\Users\user\Desktop\etefmc_2022\Linguagem de Programacao\2tri\PrimeiroProjeto\AprendendoPOO\obj\Debug\net6.0\refint\AprendendoPOO.dll
+C:\Users\user\Desktop\etefmc_2022\Linguagem de Programacao\2tri\PrimeiroProjeto\AprendendoPOO\obj\Debug\net6.0\AprendendoPOO.pdb
+C:\Users\user\Desktop\etefmc_2022\Linguagem de Programacao\2tri\PrimeiroProjeto\AprendendoPOO\obj\Debug\net6.0\AprendendoPOO.genruntimeconfig.cache
+C:\Users\user\Desktop\etefmc_2022\Linguagem de Programacao\2tri\PrimeiroProjeto\AprendendoPOO\obj\Debug\net6.0\ref\AprendendoPOO.dll
