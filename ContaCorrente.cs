@@ -14,16 +14,21 @@ public class ContaCorrente
         this.saldo = saldo;
     }
 
-    public string Sacar (double valor)
+    public bool Sacar (double valorSaque)
     {
-        if(this.saldo < valor)
+        if(this.saldo >= valorSaque)
         {
-            return "Saldo insuficiente";
+            this.saldo -= valorSaque;
+            return true;
         }
         else
         {
-            this.saldo -= valor;
-            return "Saque efetuado!";
+            return false;
         }
+    }
+    public bool Adicionar (double valorAdicionado)
+    {
+        this.saldo += valorAdicionado;
+        return true;
     }
 }
