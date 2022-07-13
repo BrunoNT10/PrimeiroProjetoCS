@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\etefmc_2022\\Linguagem de Programacao\\2tri\\PrimeiroProjeto\\PrimeiroProjetoCS\\AprendendoPOO.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\etefmc_2022\\Tarefas\\Linguagem de Programacao\\2tri\\PrimeiroProjeto\\PrimeiroProjetoCS\\AprendendoPOO.csproj",
       "projectName": "AprendendoPOO",
-      "projectPath": "C:\\Users\\user\\Desktop\\etefmc_2022\\Linguagem de Programacao\\2tri\\PrimeiroProjeto\\PrimeiroProjetoCS\\AprendendoPOO.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\etefmc_2022\\Tarefas\\Linguagem de Programacao\\2tri\\PrimeiroProjeto\\PrimeiroProjetoCS\\AprendendoPOO.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\etefmc_2022\\Linguagem de Programacao\\2tri\\PrimeiroProjeto\\PrimeiroProjetoCS\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\etefmc_2022\\Tarefas\\Linguagem de Programacao\\2tri\\PrimeiroProjeto\\PrimeiroProjetoCS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

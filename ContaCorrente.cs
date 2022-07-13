@@ -26,9 +26,9 @@ public class ContaCorrente
             return false;
         }
     }
-    public bool Adicionar (double valorAdicionado)
+    public bool Depositar (double ValorDeposito)
     {
-        this.saldo += valorAdicionado;
+        this.saldo += ValorDeposito;
         return true;
     }
 }
